@@ -1,0 +1,33 @@
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-2\PlaylistDLL\PlaylistDLL\bin\Debug\PlaylistDLL.dll
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-2\PlaylistDLL\PlaylistDLL\bin\Debug\PlaylistDLL.pdb
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-2\PlaylistDLL\PlaylistDLL\obj\Debug\PlaylistDLL.csprojResolveAssemblyReference.cache
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-2\PlaylistDLL\PlaylistDLL\obj\Debug\PlaylistDLL.dll
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-2\PlaylistDLL\PlaylistDLL\obj\Debug\PlaylistDLL.pdb
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-2\PlaylistDLL\PlaylistDLL\bin\Debug\PlaylistDLL.XML
+C:\Users\Catalin\Desktop\ProiectIp\PlaylistDLL\PlaylistDLL\bin\Debug\PlaylistDLL.XML
+C:\Users\Catalin\Desktop\ProiectIp\PlaylistDLL\PlaylistDLL\bin\Debug\PlaylistDLL.dll
+C:\Users\Catalin\Desktop\ProiectIp\PlaylistDLL\PlaylistDLL\bin\Debug\PlaylistDLL.pdb
+C:\Users\Catalin\Desktop\ProiectIp\PlaylistDLL\PlaylistDLL\obj\Debug\PlaylistDLL.csproj.AssemblyReference.cache
+C:\Users\Catalin\Desktop\ProiectIp\PlaylistDLL\PlaylistDLL\obj\Debug\PlaylistDLL.csproj.CoreCompileInputs.cache
+C:\Users\Catalin\Desktop\ProiectIp\PlaylistDLL\PlaylistDLL\obj\Debug\PlaylistDLL.dll
+C:\Users\Catalin\Desktop\ProiectIp\PlaylistDLL\PlaylistDLL\obj\Debug\PlaylistDLL.pdb
+C:\Users\Catalin\Desktop\ProiectIp\MP3-Player-main\PlaylistDLL\PlaylistDLL\bin\Debug\PlaylistDLL.XML
+C:\Users\Catalin\Desktop\ProiectIp\MP3-Player-main\PlaylistDLL\PlaylistDLL\bin\Debug\PlaylistDLL.dll
+C:\Users\Catalin\Desktop\ProiectIp\MP3-Player-main\PlaylistDLL\PlaylistDLL\bin\Debug\PlaylistDLL.pdb
+C:\Users\Catalin\Desktop\ProiectIp\MP3-Player-main\PlaylistDLL\PlaylistDLL\obj\Debug\PlaylistDLL.csproj.AssemblyReference.cache
+C:\Users\Catalin\Desktop\ProiectIp\MP3-Player-main\PlaylistDLL\PlaylistDLL\obj\Debug\PlaylistDLL.csproj.CoreCompileInputs.cache
+C:\Users\Catalin\Desktop\ProiectIp\MP3-Player-main\PlaylistDLL\PlaylistDLL\obj\Debug\PlaylistDLL.dll
+C:\Users\Catalin\Desktop\ProiectIp\MP3-Player-main\PlaylistDLL\PlaylistDLL\obj\Debug\PlaylistDLL.pdb
+D:\IP\Proiect\MP3Player\PlaylistDLL\PlaylistDLL\bin\Debug\PlaylistDLL.XML
+D:\IP\Proiect\MP3Player\PlaylistDLL\PlaylistDLL\bin\Debug\PlaylistDLL.dll
+D:\IP\Proiect\MP3Player\PlaylistDLL\PlaylistDLL\bin\Debug\PlaylistDLL.pdb
+D:\IP\Proiect\MP3Player\PlaylistDLL\PlaylistDLL\obj\Debug\PlaylistDLL.csproj.AssemblyReference.cache
+D:\IP\Proiect\MP3Player\PlaylistDLL\PlaylistDLL\obj\Debug\PlaylistDLL.csproj.CoreCompileInputs.cache
+D:\IP\Proiect\MP3Player\PlaylistDLL\PlaylistDLL\obj\Debug\PlaylistDLL.dll
+D:\IP\Proiect\MP3Player\PlaylistDLL\PlaylistDLL\obj\Debug\PlaylistDLL.pdb
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\PlaylistDLL\PlaylistDLL\bin\Debug\PlaylistDLL.XML
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\PlaylistDLL\PlaylistDLL\bin\Debug\PlaylistDLL.dll
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\PlaylistDLL\PlaylistDLL\bin\Debug\PlaylistDLL.pdb
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\PlaylistDLL\PlaylistDLL\obj\Debug\PlaylistDLL.csprojResolveAssemblyReference.cache
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\PlaylistDLL\PlaylistDLL\obj\Debug\PlaylistDLL.dll
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\PlaylistDLL\PlaylistDLL\obj\Debug\PlaylistDLL.pdb

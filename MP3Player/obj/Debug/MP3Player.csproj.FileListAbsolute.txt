@@ -1,0 +1,139 @@
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\MP3Player\MP3Player\bin\Debug\MP3Player.exe.config
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\MP3Player\MP3Player\bin\Debug\MP3Player.exe
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\MP3Player\MP3Player\bin\Debug\MP3Player.pdb
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\MP3Player\MP3Player\obj\Debug\MP3Player.mp3Form.resources
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\MP3Player\MP3Player\obj\Debug\MP3Player.Properties.Resources.resources
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\MP3Player\MP3Player\obj\Debug\MP3Player.csproj.GenerateResource.Cache
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\MP3Player\MP3Player\obj\Debug\MP3Player.exe
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\MP3Player\MP3Player\obj\Debug\MP3Player.pdb
+D:\IP\Proiect\MP3Player\MP3Player\bin\Debug\MP3Player.exe.config
+D:\IP\Proiect\MP3Player\MP3Player\bin\Debug\MP3Player.exe
+D:\IP\Proiect\MP3Player\MP3Player\bin\Debug\MP3Player.pdb
+D:\IP\Proiect\MP3Player\MP3Player\obj\Debug\MP3Player.csproj.AssemblyReference.cache
+D:\IP\Proiect\MP3Player\MP3Player\obj\Debug\MP3Player.csproj.SuggestedBindingRedirects.cache
+D:\IP\Proiect\MP3Player\MP3Player\obj\Debug\MP3Player.mp3Form.resources
+D:\IP\Proiect\MP3Player\MP3Player\obj\Debug\MP3Player.Properties.Resources.resources
+D:\IP\Proiect\MP3Player\MP3Player\obj\Debug\MP3Player.csproj.GenerateResource.cache
+D:\IP\Proiect\MP3Player\MP3Player\obj\Debug\MP3Player.csproj.CoreCompileInputs.cache
+D:\IP\Proiect\MP3Player\MP3Player\obj\Debug\MP3Player.exe
+D:\IP\Proiect\MP3Player\MP3Player\obj\Debug\MP3Player.pdb
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github\MP3-Player\MP3Player\bin\Debug\MP3Player.exe.config
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github\MP3-Player\MP3Player\obj\Debug\MP3Player.exe
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github\MP3-Player\MP3Player\obj\Debug\MP3Player.pdb
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github\MP3-Player\MP3Player\bin\Debug\MP3Player.exe
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github\MP3-Player\MP3Player\bin\Debug\MP3Player.pdb
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github\MP3-Player\MP3Player\obj\Debug\MP3Player.csprojResolveAssemblyReference.cache
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github\MP3-Player\MP3Player\obj\Debug\MP3Player.mp3Form.resources
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github\MP3-Player\MP3Player\obj\Debug\MP3Player.Properties.Resources.resources
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github\MP3-Player\MP3Player\obj\Debug\MP3Player.csproj.GenerateResource.Cache
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github\MP3-Player\MP3Player\obj\Debug\Interop.MediaPlayer.dll
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github\MP3-Player\MP3Player\obj\Debug\Interop.WMPLib.dll
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github\MP3-Player\MP3Player\obj\Debug\MP3Player.csproj.ResolveComReference.cache
+D:\IP\Proiect\MP3Player\MP3Player\obj\Debug\Interop.MediaPlayer.dll
+D:\IP\Proiect\MP3Player\MP3Player\obj\Debug\Interop.WMPLib.dll
+D:\IP\Proiect\MP3Player\MP3Player\obj\Debug\MP3Player.csproj.ResolveComReference.cache
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-1\MP3-Player\MP3Player\bin\Debug\MP3Player.exe.config
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-1\MP3-Player\MP3Player\obj\Debug\Interop.MediaPlayer.dll
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-1\MP3-Player\MP3Player\obj\Debug\Interop.WMPLib.dll
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-1\MP3-Player\MP3Player\obj\Debug\MP3Player.csproj.ResolveComReference.cache
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-1\MP3-Player\MP3Player\obj\Debug\MP3Player.exe
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-1\MP3-Player\MP3Player\obj\Debug\MP3Player.pdb
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-1\MP3-Player\MP3Player\bin\Debug\MP3Player.exe
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-1\MP3-Player\MP3Player\bin\Debug\MP3Player.pdb
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-1\MP3-Player\MP3Player\obj\Debug\MP3Player.csprojResolveAssemblyReference.cache
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-1\MP3-Player\MP3Player\obj\Debug\MP3Player.mp3Form.resources
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-1\MP3-Player\MP3Player\obj\Debug\MP3Player.Properties.Resources.resources
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-1\MP3-Player\MP3Player\obj\Debug\MP3Player.csproj.GenerateResource.Cache
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-2\MP3-Player\MP3Player\bin\Debug\MP3Player.exe.config
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-2\MP3-Player\MP3Player\obj\Debug\Interop.MediaPlayer.dll
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-2\MP3-Player\MP3Player\obj\Debug\Interop.WMPLib.dll
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-2\MP3-Player\MP3Player\obj\Debug\MP3Player.csproj.ResolveComReference.cache
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-2\MP3-Player\MP3Player\obj\Debug\MP3Player.exe
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-2\MP3-Player\MP3Player\obj\Debug\MP3Player.pdb
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-2\MP3-Player\MP3Player\bin\Debug\MP3Player.exe
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-2\MP3-Player\MP3Player\bin\Debug\MP3Player.pdb
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-2\MP3-Player\MP3Player\obj\Debug\MP3Player.csprojResolveAssemblyReference.cache
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-2\MP3-Player\MP3Player\obj\Debug\MP3Player.mp3Form.resources
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-2\MP3-Player\MP3Player\obj\Debug\MP3Player.Properties.Resources.resources
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-2\MP3-Player\MP3Player\obj\Debug\MP3Player.csproj.GenerateResource.Cache
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-2\MP3-Player\MP3Player\bin\Debug\MP3Player.XML
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-2\MP3-Player\MP3Player\bin\Debug\PlaylistDLL.xml
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-2\MP3-Player\MP3Player\bin\Debug\SongDLL.xml
+C:\Users\Catalin\Desktop\MP3-Player-main\MP3Player\bin\Debug\MP3Player.exe.config
+C:\Users\Catalin\Desktop\MP3-Player-main\MP3Player\bin\Debug\MP3Player.XML
+C:\Users\Catalin\Desktop\MP3-Player-main\MP3Player\bin\Debug\MP3Player.exe
+C:\Users\Catalin\Desktop\MP3-Player-main\MP3Player\bin\Debug\MP3Player.pdb
+C:\Users\Catalin\Desktop\MP3-Player-main\MP3Player\bin\Debug\PlaylistDLL.xml
+C:\Users\Catalin\Desktop\MP3-Player-main\MP3Player\bin\Debug\SongDLL.xml
+C:\Users\Catalin\Desktop\MP3-Player-main\MP3Player\obj\Debug\MP3Player.csproj.AssemblyReference.cache
+C:\Users\Catalin\Desktop\MP3-Player-main\MP3Player\obj\Debug\MP3Player.csproj.SuggestedBindingRedirects.cache
+C:\Users\Catalin\Desktop\MP3-Player-main\MP3Player\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Catalin\Desktop\MP3-Player-main\MP3Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Catalin\Desktop\MP3-Player-main\MP3Player\obj\Debug\MP3Player.csproj.ResolveComReference.cache
+C:\Users\Catalin\Desktop\MP3-Player-main\MP3Player\obj\Debug\MP3Player.Mp3Form.resources
+C:\Users\Catalin\Desktop\MP3-Player-main\MP3Player\obj\Debug\MP3Player.Properties.Resources.resources
+C:\Users\Catalin\Desktop\MP3-Player-main\MP3Player\obj\Debug\MP3Player.csproj.GenerateResource.cache
+C:\Users\Catalin\Desktop\MP3-Player-main\MP3Player\obj\Debug\MP3Player.csproj.CoreCompileInputs.cache
+C:\Users\Catalin\Desktop\MP3-Player-main\MP3Player\obj\Debug\MP3Player.csproj.CopyComplete
+C:\Users\Catalin\Desktop\MP3-Player-main\MP3Player\obj\Debug\MP3Player.exe
+C:\Users\Catalin\Desktop\MP3-Player-main\MP3Player\obj\Debug\MP3Player.pdb
+C:\Users\Catalin\Desktop\ProiectIp\MP3-Player-main\MP3Player\bin\Debug\MP3Player.exe.config
+C:\Users\Catalin\Desktop\ProiectIp\MP3-Player-main\MP3Player\bin\Debug\MP3Player.XML
+C:\Users\Catalin\Desktop\ProiectIp\MP3-Player-main\MP3Player\bin\Debug\MP3Player.exe
+C:\Users\Catalin\Desktop\ProiectIp\MP3-Player-main\MP3Player\bin\Debug\MP3Player.pdb
+C:\Users\Catalin\Desktop\ProiectIp\MP3-Player-main\MP3Player\bin\Debug\PlaylistDLL.xml
+C:\Users\Catalin\Desktop\ProiectIp\MP3-Player-main\MP3Player\bin\Debug\SongDLL.xml
+C:\Users\Catalin\Desktop\ProiectIp\MP3-Player-main\MP3Player\obj\Debug\MP3Player.csproj.AssemblyReference.cache
+C:\Users\Catalin\Desktop\ProiectIp\MP3-Player-main\MP3Player\obj\Debug\MP3Player.csproj.SuggestedBindingRedirects.cache
+C:\Users\Catalin\Desktop\ProiectIp\MP3-Player-main\MP3Player\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Catalin\Desktop\ProiectIp\MP3-Player-main\MP3Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Catalin\Desktop\ProiectIp\MP3-Player-main\MP3Player\obj\Debug\MP3Player.csproj.ResolveComReference.cache
+C:\Users\Catalin\Desktop\ProiectIp\MP3-Player-main\MP3Player\obj\Debug\MP3Player.Mp3Form.resources
+C:\Users\Catalin\Desktop\ProiectIp\MP3-Player-main\MP3Player\obj\Debug\MP3Player.Properties.Resources.resources
+C:\Users\Catalin\Desktop\ProiectIp\MP3-Player-main\MP3Player\obj\Debug\MP3Player.csproj.GenerateResource.cache
+C:\Users\Catalin\Desktop\ProiectIp\MP3-Player-main\MP3Player\obj\Debug\MP3Player.csproj.CoreCompileInputs.cache
+C:\Users\Catalin\Desktop\ProiectIp\MP3-Player-main\MP3Player\obj\Debug\MP3Player.csproj.CopyComplete
+C:\Users\Catalin\Desktop\ProiectIp\MP3-Player-main\MP3Player\obj\Debug\MP3Player.exe
+C:\Users\Catalin\Desktop\ProiectIp\MP3-Player-main\MP3Player\obj\Debug\MP3Player.pdb
+C:\Users\Catalin\Desktop\ProiectIp\MP3-Player-main\MP3Player\bin\Debug\PlaylistDLL.dll
+C:\Users\Catalin\Desktop\ProiectIp\MP3-Player-main\MP3Player\bin\Debug\SongDLL.dll
+C:\Users\Catalin\Desktop\ProiectIp\MP3-Player-main\MP3Player\bin\Debug\PlaylistDLL.pdb
+C:\Users\Catalin\Desktop\ProiectIp\MP3-Player-main\MP3Player\bin\Debug\SongDLL.pdb
+D:\IP\Proiect\MP3Player\MP3Player\bin\Debug\MP3Player.XML
+D:\IP\Proiect\MP3Player\MP3Player\bin\Debug\PlaylistDLL.pdb
+D:\IP\Proiect\MP3Player\MP3Player\bin\Debug\PlaylistDLL.xml
+D:\IP\Proiect\MP3Player\MP3Player\bin\Debug\SongDLL.pdb
+D:\IP\Proiect\MP3Player\MP3Player\bin\Debug\SongDLL.xml
+D:\IP\Proiect\MP3Player\MP3Player\obj\Debug\MP3Player.csproj.CopyComplete
+D:\IP\Proiect\MP3Player\MP3Player\bin\Debug\MP3Player.exe.manifest
+D:\IP\Proiect\MP3Player\MP3Player\bin\Debug\MP3Player.application
+D:\IP\Proiect\MP3Player\MP3Player\obj\Debug\MP3Player.exe.manifest
+D:\IP\Proiect\MP3Player\MP3Player\obj\Debug\MP3Player.application
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\MP3Player\bin\Debug\MP3Player.exe.config
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\MP3Player\bin\Debug\MP3Player.XML
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\MP3Player\obj\Debug\Interop.MediaPlayer.dll
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\MP3Player\obj\Debug\Interop.WMPLib.dll
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\MP3Player\obj\Debug\MP3Player.csproj.ResolveComReference.cache
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\MP3Player\obj\Debug\MP3Player.exe
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\MP3Player\obj\Debug\MP3Player.pdb
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\MP3Player\obj\Debug\MP3Player.csprojResolveAssemblyReference.cache
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\MP3Player\obj\Debug\MP3Player.Mp3Form.resources
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\MP3Player\obj\Debug\MP3Player.Properties.Resources.resources
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\MP3Player\obj\Debug\MP3Player.csproj.GenerateResource.Cache
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\MP3Player\bin\Debug\MP3Player.exe.manifest
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\MP3Player\bin\Debug\MP3Player.application
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\MP3Player\bin\Debug\MP3Player.exe
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\MP3Player\bin\Debug\MP3Player.pdb
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\MP3Player\bin\Debug\PlaylistDLL.pdb
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\MP3Player\bin\Debug\PlaylistDLL.xml
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\MP3Player\bin\Debug\SongDLL.pdb
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\MP3Player\bin\Debug\SongDLL.xml
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\MP3Player\obj\Debug\MP3Player.exe.manifest
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\MP3Player\obj\Debug\MP3Player.application
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\My Repository\MP3-Player-App\MP3Player\bin\Debug\MP3Player.exe.config
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\My Repository\MP3-Player-App\MP3Player\bin\Debug\MP3Player.XML
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\My Repository\MP3-Player-App\MP3Player\obj\Debug\Interop.MediaPlayer.dll
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\My Repository\MP3-Player-App\MP3Player\obj\Debug\Interop.WMPLib.dll
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\My Repository\MP3-Player-App\MP3Player\obj\Debug\MP3Player.csproj.ResolveComReference.cache
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\My Repository\MP3-Player-App\MP3Player\obj\Debug\MP3Player.exe
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\My Repository\MP3-Player-App\MP3Player\obj\Debug\MP3Player.pdb

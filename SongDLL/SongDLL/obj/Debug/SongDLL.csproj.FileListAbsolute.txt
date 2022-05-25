@@ -1,0 +1,34 @@
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-2\SongDLL\SongDLL\obj\Debug\Interop.WMPLib.dll
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-2\SongDLL\SongDLL\obj\Debug\SongDLL.csproj.ResolveComReference.cache
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-2\SongDLL\SongDLL\bin\Debug\SongDLL.dll
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-2\SongDLL\SongDLL\bin\Debug\SongDLL.pdb
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-2\SongDLL\SongDLL\obj\Debug\SongDLL.dll
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-2\SongDLL\SongDLL\obj\Debug\SongDLL.pdb
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-2\SongDLL\SongDLL\obj\Debug\SongDLL.csprojResolveAssemblyReference.cache
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-2\SongDLL\SongDLL\bin\Debug\SongDLL.XML
+C:\Users\Catalin\Desktop\ProiectIp\SongDLL\SongDLL\bin\Debug\SongDLL.XML
+C:\Users\Catalin\Desktop\ProiectIp\SongDLL\SongDLL\bin\Debug\SongDLL.dll
+C:\Users\Catalin\Desktop\ProiectIp\SongDLL\SongDLL\bin\Debug\SongDLL.pdb
+C:\Users\Catalin\Desktop\ProiectIp\SongDLL\SongDLL\obj\Debug\SongDLL.csproj.AssemblyReference.cache
+C:\Users\Catalin\Desktop\ProiectIp\SongDLL\SongDLL\obj\Debug\Interop.WMPLib.dll
+C:\Users\Catalin\Desktop\ProiectIp\SongDLL\SongDLL\obj\Debug\SongDLL.csproj.ResolveComReference.cache
+C:\Users\Catalin\Desktop\ProiectIp\SongDLL\SongDLL\obj\Debug\SongDLL.csproj.CoreCompileInputs.cache
+C:\Users\Catalin\Desktop\ProiectIp\SongDLL\SongDLL\obj\Debug\SongDLL.dll
+C:\Users\Catalin\Desktop\ProiectIp\SongDLL\SongDLL\obj\Debug\SongDLL.pdb
+D:\IP\Proiect\MP3Player\SongDLL\SongDLL\bin\Debug\SongDLL.XML
+D:\IP\Proiect\MP3Player\SongDLL\SongDLL\bin\Debug\SongDLL.dll
+D:\IP\Proiect\MP3Player\SongDLL\SongDLL\bin\Debug\SongDLL.pdb
+D:\IP\Proiect\MP3Player\SongDLL\SongDLL\obj\Debug\SongDLL.csproj.AssemblyReference.cache
+D:\IP\Proiect\MP3Player\SongDLL\SongDLL\obj\Debug\Interop.WMPLib.dll
+D:\IP\Proiect\MP3Player\SongDLL\SongDLL\obj\Debug\SongDLL.csproj.ResolveComReference.cache
+D:\IP\Proiect\MP3Player\SongDLL\SongDLL\obj\Debug\SongDLL.csproj.CoreCompileInputs.cache
+D:\IP\Proiect\MP3Player\SongDLL\SongDLL\obj\Debug\SongDLL.dll
+D:\IP\Proiect\MP3Player\SongDLL\SongDLL\obj\Debug\SongDLL.pdb
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\SongDLL\SongDLL\bin\Debug\SongDLL.XML
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\SongDLL\SongDLL\bin\Debug\SongDLL.dll
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\SongDLL\SongDLL\bin\Debug\SongDLL.pdb
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\SongDLL\SongDLL\obj\Debug\SongDLL.csprojResolveAssemblyReference.cache
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\SongDLL\SongDLL\obj\Debug\Interop.WMPLib.dll
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\SongDLL\SongDLL\obj\Debug\SongDLL.csproj.ResolveComReference.cache
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\SongDLL\SongDLL\obj\Debug\SongDLL.dll
+D:\Robert\FACULTATE\ANUL 3\Semestrul 2\IP\Proiect\Repository-Github-final\MP3-Player\SongDLL\SongDLL\obj\Debug\SongDLL.pdb

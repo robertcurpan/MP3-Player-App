@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SongDLL</name>
+    </assembly>
+    <members>
+        <member name="T:SongDLL.Song">
+            <summary>
+            This class is responsible for playing, stopping and pausing a song. It has all the logic that controls the Windows Media Player object.
+            </summary>
+        </member>
+        <member name="M:SongDLL.Song.Play">
+            <summary>
+            Starts a song that is stopped or paused in a new thread.
+            </summary>
+        </member>
+        <member name="M:SongDLL.Song.PlaySong">
+            <summary>
+            Plays a new song (the new song is loaded through its path into the WMP object's URL attribute)
+            </summary>
+        </member>
+        <member name="M:SongDLL.Song.PauseSong">
+            <summary>
+            Pauses a song that is currently playing and kills the thread that it was playing in. The thread will be constructed again when the song will be resumed.
+            </summary>
+        </member>
+        <member name="M:SongDLL.Song.ResumeSong">
+            <summary>
+            Resumes playing a song.
+            </summary>
+        </member>
+        <member name="M:SongDLL.Song.StopSong">
+            <summary>
+            Stops a song that is currently playing. It also kills the thread that the song was playing in.
+            </summary>
+        </member>
+        <member name="M:SongDLL.Song.GetSongDurationString">
+            <summary>
+            This function returns current time of the song as a string with the format HH:MM:SS.
+            </summary>
+            <returns>The actual duration of the selected song.</returns>
+        </member>
+        <member name="M:SongDLL.Song.GetSongDurationDouble">
+            <summary>
+            This function returns duration of a song in seconds.
+            </summary>
+            <returns>The actual duration of the selected song.</returns>
+        </member>
+        <member name="P:SongDLL.Song.SongPath">
+            <summary>
+            Property that sets/retrieves the path of a song.
+            </summary>
+        </member>
+        <member name="P:SongDLL.Song.SongName">
+            <summary>
+            Property that sets/retrieves the name of a song.
+            </summary>
+        </member>
+        <member name="P:SongDLL.Song.PassedTime">
+            <summary>
+            Property that sets/retrieves the elapsed time of a song.
+            </summary>
+        </member>
+        <member name="P:SongDLL.Song.Wplayer">
+            <summary>
+            Property that retrieves the Windows Media Player object.
+            </summary>
+        </member>
+    </members>
+</doc>

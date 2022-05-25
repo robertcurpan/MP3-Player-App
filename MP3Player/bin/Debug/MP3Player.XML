@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MP3Player</name>
+    </assembly>
+    <members>
+        <member name="T:MP3Player.Mp3Form">
+            <summary>
+            Publisher class (part of the Observer design pattern) - the changes on songs (removal, for example) happen in the UI, so this class has to be the publisher.
+            </summary>
+        </member>
+        <member name="M:MP3Player.Mp3Form.#ctor">
+            <summary>
+            This creates the default playlist if it does not exists. Also, here, all the songs and playlists saved in the file are loaded (basically restores the last state of the mp3 player that was saved in the file by pressing the power button in the UI).
+            </summary>
+        </member>
+        <member name="M:MP3Player.Mp3Form.loadPlaylists">
+            <summary>
+            The actual function that loads the playlists and songs which were saved in the file during the last session.
+            </summary>
+            <returns>Returns true if the songs and playlists were loaded succesfully, otherwise false.</returns>
+        </member>
+        <member name="M:MP3Player.Mp3Form.mp3Form_Load(System.Object,System.EventArgs)">
+            <summary>
+            Loads the form.
+            </summary>
+            <param name="sender">Reference to the control/object that raised the event</param>
+            <param name="e">Contains the event data</param>
+        </member>
+        <member name="M:MP3Player.Mp3Form.startButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            (Callback function) Starts the selected song. If it doesn't exist, it is deleted from the default playlist and then the other playlists are notified (through the observer pattern).
+            </summary>
+            <param name="sender">Reference to the control/object that raised the event</param>
+            <param name="e">Contains the event data</param>
+        </member>
+        <member name="M:MP3Player.Mp3Form.timerSong_Tick(System.Object,System.EventArgs)">
+            <summary>
+            (Callback function) Increments the progress bar based on the time elapsed and the songs' duration.
+            </summary>
+            <param name="sender">Reference to the control/object that raised the event</param>
+            <param name="e">Contains the event data</param>
+        </member>
+        <member name="M:MP3Player.Mp3Form.pauseButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            (Callback function) Paused the currently playing song.
+            </summary>
+            <param name="sender">Reference to the control/object that raised the event</param>
+            <param name="e">Contains the event data</param>
+        </member>
+        <member name="M:MP3Player.Mp3Form.stopButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            (Callback function) Stops the currently playing song.
+            </summary>
+            <param name="sender">Reference to the control/object that raised the event</param>
+            <param name="e">Contains the event data</param>
+        </member>
+        <member name="M:MP3Player.Mp3Form.nextSongButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            (Callback function) Stops the current song and plays the next song in the playlist (if it is not the last).
+            </summary>
+            <param name="sender">Reference to the control/object that raised the event</param>
+            <param name="e">Contains the event data</param>
+        </member>
+        <member name="M:MP3Player.Mp3Form.previousSongButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            (Callback function) Stops the current song and plays the previous song in the playlist (if it is not the first).
+            </summary>
+            <param name="sender">Reference to the control/object that raised the event</param>
+            <param name="e">Contains the event data</param>
+        </member>
+        <member name="M:MP3Player.Mp3Form.buttonAddPlaylist_Click(System.Object,System.EventArgs)">
+            <summary>
+            (Callback function) Subscribe method (part of the Observer design pattern) - adds a new playlist to the MP3 Player
+            </summary>
+            <param name="sender">Reference to the control/object that raised the event</param>
+            <param name="e">Contains the event data</param>
+        </member>
+        <member name="M:MP3Player.Mp3Form.buttonRemovePlaylist_Click(System.Object,System.EventArgs)">
+            <summary>
+            (Callback function) Unsubscribe (part of the Observer design pattern) - removes a playlist from the MP3 player.
+            </summary>
+            <param name="sender">Reference to the control/object that raised the event</param>
+            <param name="e">Contains the event data</param>
+        </member>
+        <member name="M:MP3Player.Mp3Form.RefreshPlaylists">
+            <summary>
+            After a change in the structure of the playlists (one was added/removed), the playlists are refreshed so that the UI can display the new structure.
+            </summary>
+        </member>
+        <member name="M:MP3Player.Mp3Form.shuffleButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            (Callback function) Plays a song at random from the current playlist.
+            </summary>
+            <param name="sender">Reference to the control/object that raised the event</param>
+            <param name="e">Contains the event data</param>
+        </member>
+        <member name="M:MP3Player.Mp3Form.roundButtonAddSong_Click(System.Object,System.EventArgs)">
+            <summary>
+            (Callback function) Adds a new song to the default playlist (that contains all the songs).
+            </summary>
+            <param name="sender">Reference to the control/object that raised the event</param>
+            <param name="e">Contains the event data</param>
+        </member>
+        <member name="M:MP3Player.Mp3Form.roundButtonRemoveSong_Click(System.Object,System.EventArgs)">
+            <summary>
+            (Callback function) Removes a song from a user (custom) playlist or from the default playlist.
+            </summary>
+            <param name="sender">Reference to the control/object that raised the event</param>
+            <param name="e">Contains the event data</param>
+        </member>
+        <member name="M:MP3Player.Mp3Form.NotifyPlaylists(System.String)">
+            <summary>
+            Notify Subscribers (part of the Observer design pattern) - if a song was deleted from the default playlist or a mp3 file was deleted, the other playlists are notified and they will remove that song too.
+            </summary>
+            <param name="songName">The name of the song that will be checked within the other playlists and, if it exists there, it will be deleted.</param>
+        </member>
+        <member name="M:MP3Player.Mp3Form.RefreshSongs">
+            <summary>
+            After a change in the structure of the songs (one was added/removed), they are refreshed so that the UI can display the updated version of the songs structure.
+            </summary>
+        </member>
+        <member name="M:MP3Player.Mp3Form.listBoxSongs_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            (Callback function) When another song is selected from the list, the windows media player object receives its path so that it can be played when pressing the play button.
+            </summary>
+            <param name="sender">Reference to the control/object that raised the event</param>
+            <param name="e">Contains the event data</param>
+        </member>
+        <member name="M:MP3Player.Mp3Form.listBoxPlaylists_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            (Callback function) When another playlist is selected from the list, the listbox needs to display the songs from that new playlist.
+            </summary>
+            <param name="sender">Reference to the control/object that raised the event</param>
+            <param name="e">Contains the event data</param>
+        </member>
+        <member name="M:MP3Player.Mp3Form.powerOffButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            (Callback function) If we press the power off button, the structure of all the songs and playlists is saved in a file. Basically, the state of the MP3 player is saved so that it can be restored in the future.
+            </summary>
+            <param name="sender">Reference to the control/object that raised the event</param>
+            <param name="e">Contains the event data</param>
+        </member>
+        <member name="M:MP3Player.Mp3Form.volumeBar_Scroll(System.Object,System.EventArgs)">
+            <summary>
+            (Callback function) Modifies the volume of the song.
+            </summary>
+            <param name="sender">Reference to the control/object that raised the event</param>
+            <param name="e">Contains the event data</param>
+        </member>
+        <member name="M:MP3Player.Mp3Form.helpButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            (Callback function) Displays the help file of the application.
+            </summary>
+            <param name="sender">Reference to the control/object that raised the event</param>
+            <param name="e">Contains the event data</param>
+        </member>
+        <member name="M:MP3Player.Mp3Form.infoButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            (Callback function) Displays information about the application.
+            </summary>
+            <param name="sender">Reference to the control/object that raised the event</param>
+            <param name="e">Contains the event data</param>
+        </member>
+        <member name="M:MP3Player.Mp3Form.roundButtonAddSongToPlaylist_Click(System.Object,System.EventArgs)">
+            <summary>
+            (Callback function) Adds the selected song to a playlist of the user's choice.
+            </summary>
+            <param name="sender">Reference to the control/object that raised the event</param>
+            <param name="e">Contains the event data</param>
+        </member>
+        <member name="F:MP3Player.Mp3Form.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MP3Player.Mp3Form.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MP3Player.Mp3Form.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:MP3Player.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:MP3Player.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:MP3Player.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:MP3Player.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PlaylistDLL</name>
+    </assembly>
+    <members>
+        <member name="T:PlaylistDLL.ConcretePlaylist">
+            <summary>
+            Concrete Subscriber class (part of the Observer design pattern) - contains methods that manage the songs in a playlist.
+            </summary>
+        </member>
+        <member name="M:PlaylistDLL.ConcretePlaylist.#ctor">
+            <summary>
+            Constructs the dictionary that saves the song name and song path.
+            </summary>
+        </member>
+        <member name="M:PlaylistDLL.ConcretePlaylist.#ctor(System.String)">
+            <summary>
+            Constructs the dictionary that saves the song name and song path. It also gives a name to the playlist.
+            </summary>
+            <param name="playlistName">The name of the playlist.</param>
+        </member>
+        <member name="P:PlaylistDLL.ConcretePlaylist.Songs">
+            <summary>
+            Retrieves the name of all the songs in the current playlist.
+            </summary>
+        </member>
+        <member name="P:PlaylistDLL.ConcretePlaylist.SongsWithPaths">
+            <summary>
+            Retrieves the name + path of all the songs in the current playlist.
+            </summary>
+        </member>
+        <member name="P:PlaylistDLL.ConcretePlaylist.PlaylistName">
+            <summary>
+            Retrieves the current playlist's name.
+            </summary>
+        </member>
+        <member name="M:PlaylistDLL.ConcretePlaylist.PlaylistSongPath(System.String)">
+            <summary>
+            Will retrieve the path of the specified song (by name).
+            </summary>
+            <param name="name">The name of the song that we want to get the path of.</param>
+            <returns>The path of the song mentioned by name as parameter.</returns>
+        </member>
+        <member name="M:PlaylistDLL.ConcretePlaylist.AddSong(System.String,System.String)">
+            <summary>
+            Adds a (name, path) pair to the song dictionary.
+            </summary>
+            <param name="name">The name of the song that will be added.</param>
+            <param name="path">The path of the song that will be added.</param>
+        </member>
+        <member name="M:PlaylistDLL.ConcretePlaylist.RemoveSong(System.String)">
+            <summary>
+            Removes a song from the song dictionary.
+            </summary>
+            <param name="name">The name of the song that we want to remove.</param>
+        </member>
+        <member name="M:PlaylistDLL.ConcretePlaylist.Update(System.String)">
+            <summary>
+            The Update method (part of Observer design pattern) that is executed by each subscriber when they are notified. If a song is removed from the default playlist (or from the computer), through the Observer pattern it will be deleted from the other playlists too.
+            </summary>
+            <param name="songName">The name of the song that will be deleted from the current playlist if it exists.</param>
+        </member>
+        <member name="T:PlaylistDLL.Playlist">
+            <summary>
+            Subscriber abstract class (part of the Observer design pattern) - defines the methods that will be implemented in the concrete playlist class.
+            </summary>
+        </member>
+        <member name="P:PlaylistDLL.Playlist.Songs">
+            <summary>
+            Abstract Property that retrieves the name of all the songs in the current playlist.
+            </summary>
+        </member>
+        <member name="P:PlaylistDLL.Playlist.SongsWithPaths">
+            <summary>
+            Abstract Property that retrieves the name + path of all the songs in the current playlist.
+            </summary>
+        </member>
+        <member name="P:PlaylistDLL.Playlist.PlaylistName">
+            <summary>
+            Abstract property that retrieves the current playlist's name.
+            </summary>
+        </member>
+        <member name="M:PlaylistDLL.Playlist.PlaylistSongPath(System.String)">
+            <summary>
+            Will retrieve the path of the specified song (by name).
+            </summary>
+            <param name="name">The name of the song that we want to get the path of.</param>
+            <returns>The path of the song mentioned by name as parameter.</returns>
+        </member>
+        <member name="M:PlaylistDLL.Playlist.AddSong(System.String,System.String)">
+            <summary>
+            Adds a (name, path) pair to the song dictionary.
+            </summary>
+            <param name="name">The name of the song that will be added.</param>
+            <param name="path">The path of the song that will be added.</param>
+        </member>
+        <member name="M:PlaylistDLL.Playlist.RemoveSong(System.String)">
+            <summary>
+            Removes a song from the song dictionary.
+            </summary>
+            <param name="name">The name of the song that we want to remove.</param>
+        </member>
+        <member name="M:PlaylistDLL.Playlist.Update(System.String)">
+            <summary>
+            The Update method (part of Observer design pattern) that is executed by each subscriber when they are notified. If a song is removed from the default playlist (or from the computer), through the Observer pattern it will be deleted from the other playlists too.
+            </summary>
+            <param name="songName">The name of the song that will be deleted from the current playlist if it exists.</param>
+        </member>
+    </members>
+</doc>
